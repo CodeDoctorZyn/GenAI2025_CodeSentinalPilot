@@ -1,4 +1,4 @@
-# Trash Tactics — Project Report (export to PDF)
+# Trash Tactics — Project Report 
 
 ## Introduction
 Trash Tactics is a 2D browser drag-and-drop sorting game designed to teach correct recycling and composting practices in Australia through quick, engaging rounds.
