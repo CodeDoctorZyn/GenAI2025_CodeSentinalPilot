@@ -1,0 +1,1 @@
+Create HTML/CSS/JS for a 2D drag-and-drop sorting game (Recycle/Compost/Landfill) with three levels (Home, Campus, Community). Queue items per level, drag item to bin or press 1/2/3; mobile has tap buttons. Scoring: +1 correct, −2 wrong. Include Menu, Play, Results. Use semantic roles and ARIA for accessibility.

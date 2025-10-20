@@ -1,0 +1,6 @@
+Design simple, flat SVG/PNG assets for a waste-sorting game:
+1) Three bins: Recycle (green), Compost (lime), Landfill (amber). Labels readable on light backgrounds. High contrast, WCAG AA compliant.
+2) 24 item icons (banana peel, aluminium can, glass bottle, paper towel, soft plastic wrapper, coffee cup, cup lid, etc.). Minimalist, recognisable silhouettes.
+3) A clean background texture or pattern that won’t distract from items.
+4) Icon sizes: 64x64 and 128x128 variants. Keep stroke widths consistent.
+5) Export as SVG preferred; provide PNG fallbacks.
